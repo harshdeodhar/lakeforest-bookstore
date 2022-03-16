@@ -1,0 +1,31 @@
+{
+  "name": "lakeforest-bookstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/mocha/bin/mocha --timeout=30000 ./tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshdeodhar/lakeforest-bookstore.git"
+  },
+  "keywords": [
+    "Puppeteer",
+    "Mocha",
+    "Chai",
+    "Automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshdeodhar/lakeforest-bookstore/issues"
+  },
+  "homepage": "https://github.com/harshdeodhar/lakeforest-bookstore#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2",
+    "prettier": "^2.6.0",
+    "puppeteer": "^13.5.1"
+  }
+}
