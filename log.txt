@@ -1,0 +1,27 @@
+Book No. 1:-  BookName: Macbeth (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $6.99
+Book No. 2:-  BookName: A Midsummer Night's Dream (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $6.99
+Book No. 3:-  BookName: Julius Caesar (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $6.99
+Book No. 4:-  BookName: Antony and Cleopatra (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $5.99
+Book No. 5:-  BookName: Macbeth (Folger Shakespeare Library) (Paperback)
+  Author: William Shakespeare
+  Price: $9.99
+Book No. 6:-  BookName: Shakespeare's Sonnets (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $6.99
+Book No. 7:-  BookName: Hadestown (Paperback)
+  Author: Anaïs Mitchell
+  Price:
+Book No. 8:-  BookName: The Tempest (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $6.99
+Book No. 9:-  BookName: Much Ado About Nothing (Folger Shakespeare Library) (Mass Market)
+  Author: William Shakespeare
+  Price: $6.99
